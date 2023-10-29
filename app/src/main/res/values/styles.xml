@@ -13,6 +13,8 @@
     <style name="SpinnerTextStyle">
         <item name="android:fontFamily">@font/poppins</item>
     </style>
+<!--    <style name="progressBar">  -->
+<!--    <item name="progressBarStyle"</style>-->
 
 
 
