@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_personal"
+        android:title="Explore"
+        android:icon="@drawable/eye_svgrepo_com" />
+
+    <item
+        android:id="@+id/nav_business"
+        android:title="Network"
+        android:icon="@drawable/share_circle_network_connection_social_svgrepo_com" />
+
+    <item
+        android:id="@+id/nav_merchant"
+        android:title="Chat"
+        android:icon="@drawable/message_square_dots_svgrepo_com" />
+
+    <item
+        android:id="@+id/nav_item4"
+        android:title="Contacts"
+        android:icon="@drawable/contact_svgrepo_com" />
+
+    <item
+        android:id="@+id/nav_item5"
+        android:title="Groups"
+        android:icon="@drawable/hastag_svgrepo_com" />
+</menu>

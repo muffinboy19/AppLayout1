@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <style name="AppBottomNavigationView" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="itemBackground">@color/white</item>
+        <item name="itemHorizontalTranslationEnabled">false</item>
+    </style>
+    <style name="CustomTabLayoutTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="SpinnerTextStyle">
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+
+
+
+
+</resources>
